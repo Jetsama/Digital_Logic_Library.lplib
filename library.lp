@@ -1,0 +1,11 @@
+(librepcb_library 90cb65b6-8c9d-46ac-a9a3-830adbbf9246
+ (name "Digital Logic Library")
+ (description "")
+ (keywords "")
+ (author "Jonathan Hess")
+ (version "0.1")
+ (created 2023-09-15T14:38:09Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
